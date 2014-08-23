@@ -1,0 +1,7 @@
+[
+    "node_modules/elliptical-event/dist/event.js",
+    "./lib/pubsub.js"
+
+
+
+]
